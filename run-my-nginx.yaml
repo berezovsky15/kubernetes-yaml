@@ -6,7 +6,7 @@ metadate:
     run: my-nginx
 spec:
   ports:
-  -nodePort: 84430
+  -nodePort: 30000
   -port: 80
   -targetPort: 80
  
